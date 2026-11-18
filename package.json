@@ -1,0 +1,16 @@
+{
+  "name": "carrinho-da-shopee-nodejs",
+  "version": "1.0.0",
+  "description": "Lógica de carrinho de compras estilo Shopee em Node.js (ESM) — desafio DIO",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["nodejs", "shopee", "cart", "dio", "esm"],
+  "author": "Moisés Santos de Oliveira",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  }
+}
